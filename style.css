@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: 'Itim', cursive;
+    }
+    body{
+         background-color: hsl(180, 29%, 91%);
+    }
+    .container
+    {
+        width:750px;
+        height:300px;
+        background-color: #0E2F2F;
+        margin-left:300px;
+        margin-top:250px;
+    }
+    h1{
+        margin-top: 20px;
+        font-weight:bolder;
+        text-shadow: 2px 2px 1px rgb(91, 92, 95);
+        text-align: center;
+        color:#f3921c
+    }
+    form,label{
+        margin-left:120px;
+        margin-top: 15px;
+        font-size: large;
+    }
+    .b1{
+        background-color: rgb(247, 173, 82);
+        border-radius: 10px;
+        margin-left: 90px;
+        margin-top:25px;
+        padding: 8px;
+        font-size:x-large;
+        font-weight: bolder;
+
+    }
+    .b2
+    {
+        background-color: rgb(247, 173, 82);
+        border-radius: 10px;
+        margin-left: 50px;
+        margin-top:25px;
+        padding: 8px;
+        font-size: x-large;
+        font-weight: bolder;
+    }
+    .b1:hover
+    {
+        background-color: rgb(83, 83, 82);
+    }
+    .b2:hover
+    {
+        background-color: rgb(83, 83, 82);
+    }
+    input{
+        border-radius: 10px;
+        color:gray;
+        margin-left: 20px;
+
+    }
+    p{
+        margin-left: 250px;
+        margin-top:30px;
+        font-size: large;
+
+    }
+    #user
+    {
+        
+        margin-left: 300px;
+        margin-top: 50px;
+    }
+    i.fa-twitter:before
+    {
+        margin-right: 20px;
+    }
+    i.fa-linkedin:before
+    {
+        margin-right: 20px;
+    }
+    i.fa-facebook-official:before{
+        margin-right: 20px;
+    }
